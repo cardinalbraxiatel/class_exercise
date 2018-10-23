@@ -9,11 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<<<<<<< HEAD
-l;adflkjfadslkj;fdsalkj;fsdalkj
 
-THe rain in spain falls mainly on the plain.
-=======
 Patrick, please write in English
 
->>>>>>> 1c99c88ac9dc5d79156b0f90b5c1a5ded5d098cc
+
